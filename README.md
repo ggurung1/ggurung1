@@ -1,5 +1,4 @@
-<h1 align="center">## 👋 Hi, I am ggurung1</h1>
-
+<h1 align="center">👋 Hi, I am ggurung1!</h1>
 
 🎓 PhD in Condensed Matter Physics
 📊 Passionate about data storytelling, dashboards & automation    
