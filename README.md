@@ -2,7 +2,7 @@
 
 - 🎓 PhD in Condensed Matter Physics
 - 📊 Passionate about data storytelling, dashboards & automation    
-- 🔍 Exploring opportunities in analytics, BI, and insights generation  
+- 🔍 Exploring opportunities in analytics, BI, and data science 
 
 
 ## 💻 Tech Stack
